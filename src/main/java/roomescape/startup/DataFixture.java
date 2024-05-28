@@ -1,4 +1,4 @@
-package roomescape.common.config;
+package roomescape.startup;
 
 import java.time.LocalDate;
 import java.time.LocalTime;
